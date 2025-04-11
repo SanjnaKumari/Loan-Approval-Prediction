@@ -90,5 +90,28 @@ The **Random Forest Classifier** emerged as the best performing model with:
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## 📌 Future Work
+
+- Incorporate additional features like credit score or fraud history
+- Try **XGBoost**, **LightGBM** and **ensemble stacking**
+- Deploy the best model using a Flask web app
+
+---
+
+## 📜 License
+
+This project is licensed for academic use under the MIT License.
+
+---
+
+## 🙌 Acknowledgments
+
+- Virginia Tech – CS 5804: Introduction to AI  
+- Kaggle community for the dataset  
+- Scikit-learn and the open-source ML ecosystem
+
+
 
